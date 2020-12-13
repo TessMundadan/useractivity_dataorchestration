@@ -1,5 +1,5 @@
 # useractivity_dataorchestration
-Automate and monitor the user activity data pipelines using Airflow.
+Automate and monitor the user activity data pipelines using Airflow.</p>
 There are four custom operators:
 Stage Operator - loaded JSON formatted files from S3 to Amazon Redshift.
 Fact and Dimension Operators - SQL helper class is used to run the data transformations.
